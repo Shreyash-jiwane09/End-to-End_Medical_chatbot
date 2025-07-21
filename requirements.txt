@@ -9,4 +9,5 @@ langchain-pinecone
 langchain-openai
 langchain-text-splitters
 langchain-experimental
+langchain-groq
 # -e .
